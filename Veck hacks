@@ -1,0 +1,8 @@
+// ==UserScript==
+// @name        Publish Veck
+// @match       *://*.veck.io/*
+// @grant       none
+// @run-at      document-idle
+// @require    https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/m39rectescriptloaderplsdontfailme
+// @require    https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/veck.js
+// ==/UserScript==
